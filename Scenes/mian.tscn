@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://bbbu6p3gptbhf"]
+
+[node name="Mian" type="Node2D" unique_id=1636216692]
+
+[node name="Area2D" type="Area2D" parent="." unique_id=1722520154]
